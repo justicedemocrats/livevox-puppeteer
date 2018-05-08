@@ -1,0 +1,29 @@
+{
+  "name": "livevox-puppeteer",
+  "version": "1.0.0",
+  "description": " Puppeteer (headless Chrome) based service for getting around limitations with the Livevox API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justicedemocrats/livevox-puppeteer.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "livevox",
+    "headless",
+    "chrome",
+    "node"
+  ],
+  "author": "Ben Packer <ben.paul.ryan.packer@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/justicedemocrats/livevox-puppeteer/issues"
+  },
+  "homepage": "https://github.com/justicedemocrats/livevox-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.3.0"
+  }
+}
